@@ -15,7 +15,3 @@ Phân tích, làm sạch và trực quan hóa dữ liệu thảm họa Titanic.
 - Làm sạch dữ liệu
 - Chuẩn hóa dữ liệu
 - Vẽ biểu đồ
-
-## Cách chạy
-pip install pandas matplotlib
-python main.py
