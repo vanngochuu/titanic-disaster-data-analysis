@@ -3,7 +3,7 @@
 BTL môn Lập trình Python
 
 ## Mục tiêu
-Phân tích, làm sạch và trực quan hóa dữ liệu Titanic.
+Phân tích, làm sạch và trực quan hóa dữ liệu thảm họa Titanic.
 
 ## Công nghệ
 - Python
