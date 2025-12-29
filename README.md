@@ -20,7 +20,7 @@ Phân tích, làm sạch và trực quan hóa dữ liệu thảm họa Titanic.
 ## Cấu trúc thư mục
 
 ```
-titanic-data-analysis/
+titanic_disaster_data_analysis/
 │
 ├── main.py               # Chương trình chính (giao diện)
 ├── data_loader.py        # Đọc dữ liệu CSV
