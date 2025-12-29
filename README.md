@@ -1,4 +1,4 @@
-# Titanic Data Analysis Project
+# Titanic Disaster Data Analysis Project
 
 BTL môn Lập trình Python
 
