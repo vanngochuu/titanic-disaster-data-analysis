@@ -7,6 +7,7 @@ Phân tích, làm sạch và trực quan hóa dữ liệu thảm họa Titanic.
 
 ## Công nghệ
 - Python
+- Tkinter
 - Pandas
 - Numpy
 - Matplotlib
