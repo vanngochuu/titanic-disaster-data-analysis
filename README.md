@@ -1,6 +1,6 @@
 # Phân tích dữ liệu thảm họa Titanic
 
-BTL môn Lập trình Python
+Bài tập lớn môn Lập trình Python
 
 ## Mục tiêu
 Phân tích, làm sạch và trực quan hóa dữ liệu thảm họa Titanic.
