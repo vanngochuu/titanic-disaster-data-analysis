@@ -28,5 +28,5 @@ titanic_disaster_data_analysis/
 ├── visualization.py      # Vẽ biểu đồ
 │
 └── data/
-    └── titanic_disaster_data.csv   # Dữ liệu Titanic
+    └── titanic_disaster_data.csv   # Dữ liệu hành khách trong thảm họa Titanic
 ```
